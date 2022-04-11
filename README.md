@@ -3,8 +3,13 @@ Projeto de História (2022) em grupo com Arthur Fudali, Leandro Oyadomari, Mathe
 
 Tópicos: 
 Redes Sociais - Resumo
+
 Redes Sociais - Estatísticas
+
 Redes Socias - Fake News
+
 Redes Sociais - Uso de Dados
+
 Redes Sociais - Pandemia
+
 Redes Sociais X Saúde Mental
